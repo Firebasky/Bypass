@@ -251,7 +251,7 @@ win_shell_execute("..\..\..\..\windows\system32\cmd.exe");
 ?>
 ```
 
-## PHP SplDoublyLinkedList中的用后释放漏洞分析
+## 14. PHP SplDoublyLinkedList中的用后释放漏洞分析
 
 >https://www.freebuf.com/articles/web/251017.html
 
